@@ -12,5 +12,5 @@ Thats it as far as guidelines. They are purposely vague because we'd like to see
 
 * Code well separated into reasonable classes and functions. We use MVC for Universe but you can use any architecture pattern you want as long as you can explain it to us. Don't feel the need to over architect this, it is a simple app, but your code should be clean and maintainable.
 * Good understanding of native UI elements. Feel free to customize the UI as you want, but we're looking for a good handle on native UI elements being used together.
-* How you work. We want to see code that you enjoy writing. If you like Storyboards, use them. If you prefer programatic autolayout, use that. We want you to write code you're most comfortable with so we can see you at your best.
-* Swift or Objective C is fine. We write Swift at Universe, but we can find all the things we're looking for in Objective C and then you can learn Swift on the job. But if you're comfortable with both, go for Swift.
+* Semantic, well formatted Swift code. We use 100% Swift at Universe. We understand for some people Swift is more of a hobby than the language they use at work. Let us know if this is your first Swift project. It is not a problem, everyone starts somewhere. Think of this as a chance to use Swift on a simple greenfield project to learn.
+* Clear, simple, and purposeful Programmatic Autolayout. At Universe we write all our UI programmatically using autolayout. Its ok if thats not your forte, give it a shot.
