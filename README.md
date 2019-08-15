@@ -1,3 +1,3 @@
-[iOS Sample Project](../blob/master/iOSSampleProject.md)
+[iOS Sample Project](iOSSampleProject.md)
 
-[API Sample Project](../blob/master/APISampleProject.md)
+[API Sample Project](APISampleProject.md)
