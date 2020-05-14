@@ -1,5 +1,5 @@
 # iOS Sample Project
-This project is designed to assess your current abilities as a developer for Universe. When you're finished zip up your entire Xcode project and source files and email it to us.
+This project is designed to assess your current abilities as an iOS developer for Universe. When you're finished zip up your entire Xcode project and source files and email it to us.
 
 ### Guidelines
 Using this sample backend, we want to produce an app that starts on a screen of posts where each cell has the title and body visible. Like a boring Twitter clone. You can use this API to pull those posts https://jsonplaceholder.typicode.com/posts
@@ -12,7 +12,7 @@ Thats it as far as guidelines. They are purposely vague because we'd like to see
 
 ### Things We're looking for
 
-* Code well separated into reasonable classes and functions. We use MVC for Universe but you can use any architecture pattern you want as long as you can explain it to us. Don't feel the need to over architect this, it is a simple app, but your code should be clean and maintainable.
+* Code well separated into reasonable classes and functions. Plain and simple MVC is just fine but you can use any architecture pattern you want as long as you can explain it to us. Don't feel the need to over architect this, it is a simple app, but your code should be clean and maintainable.
 * Good understanding of native UI elements. Feel free to customize the UI as you want, but we're looking for a good handle on native UI elements being used together.
 * Semantic, well formatted Swift code. We use 100% Swift at Universe. We understand for some people Swift is more of a hobby than the language they use at work. Let us know if this is your first Swift project. It is not a problem, everyone starts somewhere. Think of this as a chance to use Swift on a simple greenfield project to learn.
 * Clear, simple, and purposeful Programmatic Autolayout. At Universe we write all our UI programmatically using autolayout. Its ok if thats not your forte, give it a shot.
